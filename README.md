@@ -36,7 +36,7 @@
 
 ###### *Shear modulus*
 
-<img src="https://github.com/RJAtouT/Elastic-modulus/blob/master/Elastic%20modulus/Shear_modulus.pn" width="50%" height="50%">
+<img src="https://github.com/RJAtouT/Elastic-modulus/blob/master/Elastic%20modulus/Shear_modulus.png" width="50%" height="50%">
 
 ###### *Poissons ratio*
 
