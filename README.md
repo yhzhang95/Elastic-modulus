@@ -13,7 +13,9 @@
 	CVoigt[6, 6] = 28
 
 `POINTS: How many points will be drawn.`
+
 `DPI: The DPI of output figure.`
+
 `Cvoigt: 7X7 matrix, but actually only (1-6, 1-6) will work.`
 
 ### Color Setting
@@ -30,20 +32,20 @@
 
 ###### *Youngs modulus*
 
-![image](https://github.com/RJAtouT/Elastic-modulus/blob/master/Elastic%20modulus/Youngs_modulus.png)
+<img src="https://github.com/RJAtouT/Elastic-modulus/blob/master/Elastic%20modulus/Youngs_modulus.png" width="50%" height="50%">
 
 ###### *Shear modulus*
 
-![image](https://github.com/RJAtouT/Elastic-modulus/blob/master/Elastic%20modulus/Shear_modulus.png)
+<img src="https://github.com/RJAtouT/Elastic-modulus/blob/master/Elastic%20modulus/Shear_modulus.pn" width="50%" height="50%">
 
 ###### *Poissons ratio*
 
-![image](https://github.com/RJAtouT/Elastic-modulus/blob/master/Elastic%20modulus/Poissons_ratio.png)
+<img src="https://github.com/RJAtouT/Elastic-modulus/blob/master/Elastic%20modulus/Poissons_ratio.png" width="50%" height="50%">
 
 ###### *Poissons ratio nega*
 
-![image](https://github.com/RJAtouT/Elastic-modulus/blob/master/Elastic%20modulus/Poissons_ratio_nega.png)
+<img src="https://github.com/RJAtouT/Elastic-modulus/blob/master/Elastic%20modulus/Poissons_ratio_nega.png" width="50%" height="50%">
 
 ###### *Linear compressibility*
 
-![image](https://github.com/RJAtouT/Elastic-modulus/blob/master/Elastic%20modulus/Linear_compressibility.png)
+<img src="https://github.com/RJAtouT/Elastic-modulus/blob/master/Elastic%20modulus/Linear_compressibility.png" width="50%" height="50%">
